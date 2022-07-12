@@ -1080,6 +1080,7 @@ vendor/lib64/libsdedrm.so
 vendor/lib64/libsdk_sr.so
 vendor/lib64/libsdm-colormgr-algo.so
 vendor/lib64/libsdm-color.so
+vendor/lib64/libsdmcore.so
 vendor/lib64/libsdm-diag.so
 vendor/lib64/libsdm-disp-vndapis.so
 vendor/lib64/libsdmextension.so
@@ -1941,6 +1942,3 @@ vendor/etc/acdbdata/Forte/Forte_Global_cal.acdb|b34ec442b87c1acb88dafd55fd86e77a
 # From MIUI v13.0.4.0 SKFINXM
 vendor/lib64/camera/com.qti.tuned.sweet_ofilm_s5kgw3_wide.bin|84d4d8875faf1dc44a68df5406b76969bd6d29b2
 vendor/lib64/camera/com.qti.tuned.sweet_sunny_s5kgw3_wide.bin|69755c55507ad9cde3c0a05a0c7f48be3d54b344
-
-# Patched libraries
-vendor/lib64/libsdmcore.so|c1fb37069254edeefc008e290490825719d9af4c
